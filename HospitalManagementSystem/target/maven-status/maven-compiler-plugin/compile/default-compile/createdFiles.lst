@@ -1,0 +1,4 @@
+com\admin\hospitalmanagementsystem\MainController.class
+module-info.class
+com\admin\hospitalmanagementsystem\Patients.class
+com\admin\hospitalmanagementsystem\App.class
